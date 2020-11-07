@@ -103,6 +103,7 @@ The following tools were used in the construction of the project:
 #### **Utilities**
 
 -   API:  **[TMDB](https://www.themoviedb.org/)**  
+-   API:  **[Axios](https://www.npmjs.com/package/axios)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
 
 ---
