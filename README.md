@@ -98,7 +98,7 @@ The following tools were used in the construction of the project:
 -   **[Movie-Trailer](https://www.npmjs.com/package/movie-trailer)**
 -   **[Firebase](https://firebase.google.com/)**
 
-> See the file  [package.json](https://github.com/Yola21/Covid-Tracker/blob/main/package.json)
+> See the file  [package.json](https://github.com/Yola21/Netflix-Clone/blob/main/package.json)
 
 #### **Utilities**
 
